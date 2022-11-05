@@ -9,6 +9,5 @@ public class try1 {
         int a = scan1.nextInt();
         a = a+1;
         System.out.println("输出"+ a);
-
     }
 }
